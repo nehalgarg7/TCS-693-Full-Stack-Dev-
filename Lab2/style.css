@@ -1,0 +1,63 @@
+.body{
+    background-color: aqua;
+    margin: 0%;
+    color:black ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div.h3{
+    text-align: center;
+}
+
+.Row1{
+    text-align: right;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.td1{
+    height: 2cm;
+}
+
+.frame{
+    color: aliceblue;
+    border-color: black;
+    background-color: black;
+}
+
+#black{
+    background-color: black;
+    color: aliceblue;
+}
+
+#aqua{
+    background-color: aqua;
+}
+
+#green{
+    background-color: green;
+}
+
+#red{
+    background-color: red;
+}
+
+#aliceblue{
+    background-color: aliceblue;
+}
+
+#orange{
+    background-color: orange;
+}
+
+#blue{
+    border-color: blue;
+}
+
+.line{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}

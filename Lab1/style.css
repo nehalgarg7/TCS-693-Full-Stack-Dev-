@@ -1,0 +1,13 @@
+.table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.header{
+    font-weight: 600;
+}
+
+.mark{
+    background-color: blue;
+    color: beige;
+}
